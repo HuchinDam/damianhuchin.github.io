@@ -1,0 +1,12 @@
+  
+{
+    "name": "damianhuchin",
+    "short_name": "Damian Huchin",
+    "description": "Links DamianHuchin",
+    "theme_color": "#3b4350",
+    "background_color": "black",
+    "display": "standalone",
+    "Scope": "./",
+    "start_url": "index.html",
+    "splash_pages": null
+  }
